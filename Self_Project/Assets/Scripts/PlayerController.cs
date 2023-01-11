@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRigidbody;
     [SerializeField]
-    private float speed = 3f;
+    private float speed = 5f;
 
     private void Start()
     {
@@ -46,5 +46,8 @@ public class PlayerController : MonoBehaviour
     public void Die() // 사망시 플레이어 비활성화 --> 외부에서 접근됨 !!! public
     {
         gameObject.SetActive(false); // 여기서의 게임 오브젝트는 플레이어 객체
+
+        GameManager gameManager = FindObjectOfType<GameManager>();
+        gameManager.EndGame();
     }
 }
