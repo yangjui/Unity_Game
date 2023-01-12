@@ -8,6 +8,10 @@ self_Project : Dodge_Game -> bullet-avoiding game.
 
 
 
-Tako_Jump![KakaoTalk_20230109_173411197_02](https://user-images.githubusercontent.com/71171290/211948149-405c0542-c335-4227-8fa9-47716d906937.jpg)
-![KakaoTalk_20230109_173411197_01](https://user-images.githubusercontent.com/71171290/211948151-bf748e18-028d-41f3-bb5b-f655ba75477d.jpg)
-![KakaoTalk_20230109_173411197](https://user-images.githubusercontent.com/71171290/211948160-d720946e-5b48-4d59-900b-bdfddcd3c506.jpg)
+Tako_Jump
+
+![image](https://user-images.githubusercontent.com/71171290/211948737-9f0d3a44-3543-4741-b69a-adb4b9382f9b.png)
+
+![image](https://user-images.githubusercontent.com/71171290/211948756-6f4b5cc0-0108-467e-bbd6-fd68d671ba16.png)
+
+![image](https://user-images.githubusercontent.com/71171290/211948762-843b9548-5054-4ba5-9f4e-e750f8811da7.png)
