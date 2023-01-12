@@ -10,6 +10,8 @@ self_Project : Dodge_Game -일정한 속도로 회전하는 맵 위에서 총알
 
 Tako_Jump - 무한으로 랜덤 생성되는 플랫폼에 맞춰 점프하는 게임
 
+https://blog.naver.com/yangjui1004
+
 ![image](https://user-images.githubusercontent.com/71171290/211948737-9f0d3a44-3543-4741-b69a-adb4b9382f9b.png)
 
 ![image](https://user-images.githubusercontent.com/71171290/211948756-6f4b5cc0-0108-467e-bbd6-fd68d671ba16.png)
